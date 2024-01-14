@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "o56WfX6tczWzSbPbJP7ipuP4wwaXyPkmx4+RveBCW7Z6luNoG7SERX7WmVqyrJ1ax+Co/piAdLpw+LfY0vcYTw==",
+  "success": true,
+  "projectFilePath": "D:\\CMSwebsite\\vdtblog\\src\\vdtblog.api\\vdtblog.api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\thang\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\thang\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\thang\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\thang\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\thang\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\thang\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
